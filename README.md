@@ -1,16 +1,17 @@
-## Hi there 👋
+### Mikel Abad
 
-<!--
-**MikelAbad/MikelAbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior iOS engineer. I build **Quiet**, simple native apps for iPhone and Android.
+[mikelabad.com](https://mikelabad.com)
 
-Here are some ideas to get you started:
+**How I build**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Native on each platform: Swift + SwiftUI, Kotlin + Jetpack Compose
+- Spec-first, iOS leads, Android follows
+- Same behavior on both platforms, native presentation on each
+- Modular MVVM with a pure domain layer and feature modules
+- Offline-first, minimal dependencies, no analytics SDKs
+
+**Stack**
+
+iOS: `Swift` `SwiftUI` `Swift Concurrency` `SwiftData` `Swift Testing` `SwiftPM`
+Android: `Kotlin` `Jetpack Compose` `Coroutines` `Flow` `Room` `Gradle`
