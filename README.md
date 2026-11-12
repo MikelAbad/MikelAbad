@@ -1,6 +1,6 @@
 ### Senior iOS engineer
 
-I build **Quiet**, simple native apps for iPhone and Android.
+I build **Quiet**, simple native apps for iPhone and Android.  
 [mikelabad.com](https://mikelabad.com)
 
 **How I build**
@@ -13,5 +13,5 @@ I build **Quiet**, simple native apps for iPhone and Android.
 
 **Stack**
 
-- iOS: `Swift` `SwiftUI` `Swift Concurrency` `SwiftData` `Swift Testing` `SwiftPM`
+- iOS: `Swift` `SwiftUI` `Swift Concurrency` `SwiftData` `Swift Testing` `SPM`
 - Android: `Kotlin` `Jetpack Compose` `Coroutines` `Flow` `Room` `Gradle`
